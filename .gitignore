@@ -5,3 +5,5 @@
 */*/DerivedDataCache/
 */*/Saved/
 *.VC.db
+03_BuildingEscape/BuildingEscape/.vs/BuildingEscape/v15/ipch/AutoPCH/
+*.uasset
