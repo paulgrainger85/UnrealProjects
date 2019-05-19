@@ -7,3 +7,7 @@
 *.VC.db
 03_BuildingEscape/BuildingEscape/.vs/BuildingEscape/v15/ipch/AutoPCH/
 *.uasset
+*.suo
+*.opendb
+*.db-shm
+*.db-wal
