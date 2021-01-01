@@ -11,3 +11,8 @@
 *.opendb
 *.db-shm
 *.db-wal
+
+BuildingEscape2/*
+BullCow*
+03*
+TripleX/*
